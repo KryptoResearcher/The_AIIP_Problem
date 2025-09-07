@@ -3,7 +3,7 @@
 This repository provides a Python reference implementation and cryptanalysis tools for the **Affine Iterated Inversion Problem (AIIP)**, a new candidate hard problem for post-quantum cryptography introduced in the paper:
 
 > **"The AIIP Problem: Toward a Post-Quantum Hardness Assumption from Affine Iterated Inversion over Finite Fields"**
-> *Preprint: https://eprint.iacr.org/2025/1590*
+
 
 The AIIP problem involves inverting an iterated polynomial map over a finite field, i.e., for a polynomial `f`, iteration count `n`, and target `y`, find `x` such that `f^{(n)}(x) = y`. This work establishes hardness reductions to both the Multivariate Quadratic (MQ) problem and the Hyperelliptic Curve Discrete Logarithm Problem (HCDLP).
 
@@ -37,8 +37,8 @@ The_AIIP_Problem/
 
 1.  **Clone the repository:**
    
-    git clone https://github.com/your-username/aiip-crypto.git
-    cd aiip-crypto
+    git clone https://github.com/your-username/The_AIIP_Problem.git
+    cd The_AIIP_Problem
     
 
 2.  **Install required Python packages:**
@@ -116,9 +116,10 @@ Citation
 If you use this code or the AIIP problem in your academic work, please cite our preprint:
 @article{aiip2025,
     title = {The AIIP Problem: Toward a Post-Quantum Hardness Assumption from Affine Iterated Inversion over Finite Fields},
-    author = {Minka Mi Nguidjoi, Thierry Emmanuel},
-    year = {2025},
-    url = {https://eprint.iacr.org/2025/1590},
-    note = {Cryptology ePrint Archive, Paper 2025/1590}
+    author = {ananysed for double blind review},
+    year = {ananysed for double blind review},
+    url = {ananysed for double blind review},
+    note = {Cananysed for double blind review}
 }
+
 
