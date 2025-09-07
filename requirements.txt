@@ -1,0 +1,6 @@
+numpy>=1.24.0
+galois>=0.3.5
+sympy>=1.12
+# SageMath is highly recommended for advanced cryptanalysis (Gröbner bases).
+# It is typically installed system-wide and not via pip.
+# sage
